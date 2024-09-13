@@ -1,0 +1,16 @@
+@import '~bootstrap/scss/bootstrap';
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+    list-style-type: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.App {
+    margin-top: 200px;
+}
